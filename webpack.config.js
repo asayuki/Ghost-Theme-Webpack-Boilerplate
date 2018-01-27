@@ -9,7 +9,7 @@ const ENV_CONF = prod ? require('./webpack.config.prod') : require('./webpack.co
 // Webpack Base Configuration
 
 const config = {
-  entry: ['./src/app/index.js'],
+  entry: ['./entry.js'],
   output: {
     path: path.resolve(__dirname, 'dist/'),
     filename: 'assets/app.js'
