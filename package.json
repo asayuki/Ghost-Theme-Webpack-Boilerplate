@@ -1,9 +1,14 @@
 {
   "name": "ghost-theme-webpack-boilerplate",
-  "author": {
+  // "name": "my-theme",
+  "author": { 
     "name": "Villiam Poignant",
     "email": "villiam@poignant.se"
   },
+  // "author": { 
+  //   "name": "Your Name",
+  //   "email": "Your Email"
+  // },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +18,7 @@
     "build": "rimraf ./dist/* && webpack -p",
     "build:zip": "npm run build && npm run zip",
     "zip": "bestzip ./packaged/ghost-theme-webpack-boilerplate.zip ./dist/*"
+    // "zip": "bestzip ./packaged/my-theme.zip ./dist/*"
   },
   "license": "ISC",
   "devDependencies": {

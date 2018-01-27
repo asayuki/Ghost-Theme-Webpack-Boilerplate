@@ -48,13 +48,16 @@ If you have symlinked the `./dist` folder to your ghost's theme dir and enabled 
 
 ## Deployment
 
-Two build scripts:
+Build scripts:
 
 `$ npm run build`:
 * Compile and minify `./src/app` to `./dist`
 * Copy everyting in `./src/theme/` to `./dist/`
 
-`$ npm run build:package`:
+`$ npm run zip`:
+* Zips `./dist` to `./dist-zipped/[my-theme].zip`
+
+`$ npm run build:zip`:
 * Run `$ npm run build`
 * Package contents of `./dist` to `./packaged/[my-theme].zip`.
 
@@ -70,7 +73,7 @@ If you have any questions, improvments or comments, please send me a PM or PR.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## The boilerplate does not include any
+## The boilerplate does not include
 
 * Tests
 * Static Typecheckers for JS
