@@ -12,7 +12,7 @@
     "dev": "webpack --watch",
     "build": "rimraf ./dist/* && webpack -p",
     "build:zip": "npm run build && npm run zip",
-    "zip": "bestzip ./packaged/ghost-theme-webpack-boilerplate.zip ./dist/*"
+    "zip": "bestzip ./dist-zipped/ghost-theme-webpack-boilerplate.zip ./dist/*"
   },
   "license": "ISC",
   "devDependencies": {
