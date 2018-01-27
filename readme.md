@@ -1,9 +1,16 @@
 # Ghost Theme Webpack Boilerplate
 
-This is a boilerplate for developing complex themes/applications for the [Ghost Publishing Platform](https://ghost.org)
 
-It supports typescript, cssNext, scss, and ES6.
-![ghost logo](https://ghost.org/logo.svg)
+<img style="margin: 10px" height="30px" src="https://ghost.org/logo.svg">
+<img style="margin: 10px" height="30px" src="https://github.com/MoOx/postcss-cssnext/raw/master/logo/cssnext-256.png">
+<img style="margin: 10px" height="30px" src="http://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
+<img style="margin: 10px" height="30px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png">
+<img style="margin: 10px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/TypeScript_Logo_%28Blue%29.svg">
+<img style="margin: 10px" height="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png">
+
+This is a boilerplate for developing complex themes/applications for the [Ghost Publishing Platform](https://ghost.org)
+It supports typescript, cssNext, Sass, and ES6.
+
 
 ### Prerequisites
 
