@@ -58,8 +58,8 @@ Build scripts:
 * Zips `./dist` to `./dist-zipped/[my-theme].zip`
 
 `$ npm run build:zip`:
-* Run `$ npm run build`
-* Package contents of `./dist` to `./packaged/[my-theme].zip`.
+* Runs `$ npm run build`
+* Zips `./dist` to `./dist-zipped/[my-theme].zip` (who could have guessed.. :smirk:)
 
 ## Contributing
 
