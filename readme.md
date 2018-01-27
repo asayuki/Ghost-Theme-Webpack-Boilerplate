@@ -9,8 +9,8 @@
 </p>
 
 This is a boilerplate for developing complex themes/applications for the [Ghost Publishing Platform](https://ghost.org)
-It supports typescript, cssNext, Sass, and ES6.
 
+The boilerplate supports typescript, cssNext, Sass, and ES6 out of the box. Tests, Linting, typecheckers, etc are left for the user to configure.
 
 ### Prerequisites
 
