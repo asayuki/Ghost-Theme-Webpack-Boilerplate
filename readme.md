@@ -59,7 +59,7 @@ Build scripts:
 
 `$ npm run build:zip`:
 * Runs `$ npm run build`
-* Zips `./dist` to `./dist-zipped/[my-theme].zip` (who could have guessed.. :smirk:)
+* Runs `$ npm run zip` (who could have guessed.. :smirk:)
 
 ## Contributing
 
